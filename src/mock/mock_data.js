@@ -10,7 +10,7 @@ export const mockData = {
           "id": "site-1752857783656",
           "name": "来自ChatGPT",
           "url": "https://chatgpt.com",
-          "description": "OpenAI,好用👌",
+          "description": "来自OpenAI,好用👌",
           "icon": "/sitelogo/chatgpt.com.ico"
         },
         {
