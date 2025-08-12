@@ -260,7 +260,7 @@ export const mockData = {
           "name": "X(推特)",
           "url": "https://x.com",
           "description": "马斯克旗下的世界最大论坛（国内需要梯子）",
-          "icon": "https://logos-world.net/wp-content/uploads/2023/08/X-Logo.png"
+          "icon": "/sitelogo/logo-black.png"
         }
       ]
     },
