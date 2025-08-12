@@ -256,7 +256,7 @@ export const mockData = {
           "icon": "/sitelogo/www.52pojie.cn.ico"
         },
         {
-          "id": "x",
+          "id": "twitterx",
           "name": "X(推特)",
           "url": "https://x.com",
           "description": "马斯克旗下的世界最大论坛（国内需要梯子）",
