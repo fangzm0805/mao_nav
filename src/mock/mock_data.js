@@ -8,7 +8,7 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1752857783656",
-          "name": "OpenAI",
+          "name": "ChatGPT",
           "url": "https://chatgpt.com",
           "description": "OpenAI,好用👌",
           "icon": "/sitelogo/chatgpt.com.ico"
@@ -481,7 +481,7 @@ export const mockData = {
       ]
     }
   ],
-  "title": "猫猫导航",
+  "title": "fangzm导航",
   "search": "bing",
   "_fileSha": "cf9e9f1ad8644add6c0918786cae6707de255aaf"
 }
