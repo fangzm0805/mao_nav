@@ -15,9 +15,9 @@ export const mockData = {
         },
         {
           "id": "linux-do",
-          "name": "Linux.do",
+          "name": "LINUX.DO",
           "url": "https://linux.do",
-          "description": "Linux技术社区，Peace and Love",
+          "description": "技术社区，where possible begins",
           "icon": "/sitelogo/linux.do.ico"
         },
         {
@@ -204,6 +204,13 @@ export const mockData = {
           "url": "https://www.oracle.com/java/technologies/downloads/",
           "description": "Oracle官方Java下载",
           "icon": "/sitelogo/www.oracle.com.ico"
+        },
+        {
+          "id": "clion",
+          "name": "CLion",
+          "url": "https://jetbrains.com/clion/",
+          "description": "基于IDEA和Java开发的C/C++ IDE",
+          "icon": "https://cdn.worldvectorlogo.com/logos/clion-1.svg"
         }
       ]
     },
@@ -222,9 +229,9 @@ export const mockData = {
         },
         {
           "id": "linuxdo",
-          "name": "Linux.do",
+          "name": "LINUX.DO",
           "url": "https://linux.do",
-          "description": "Linux与开源技术社区",
+          "description": "技术社区",
           "icon": "/sitelogo/linux.do.ico"
         },
         {
@@ -247,6 +254,13 @@ export const mockData = {
           "url": "https://www.52pojie.cn/",
           "description": "软件安全与破解技术论坛",
           "icon": "/sitelogo/www.52pojie.cn.ico"
+        },
+        {
+          "id": "x",
+          "name": "X(推特)",
+          "url": "https://x.com",
+          "description": "马斯克旗下的世界最大论坛（国内需要梯子）",
+          "icon": "https://logos-world.net/wp-content/uploads/2023/08/X-Logo.png"
         }
       ]
     },
