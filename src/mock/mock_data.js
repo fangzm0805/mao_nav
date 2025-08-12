@@ -8,7 +8,7 @@ export const mockData = {
       "sites": [
         {
           "id": "site-1752857783656",
-          "name": "ChatGPT",
+          "name": "来自ChatGPT",
           "url": "https://chatgpt.com",
           "description": "OpenAI,好用👌",
           "icon": "/sitelogo/chatgpt.com.ico"
@@ -40,6 +40,13 @@ export const mockData = {
           "url": "https://curlconverter.com/",
           "description": "curl命令转换工具",
           "icon": "/sitelogo/curlconverter.com.ico"
+        },
+        {
+          "id": "grok",
+          "name": "Grok",
+          "url": "https://grok.com/",
+          "description": "Grok，世界顶级AI",
+          "icon": "https://images.seeklogo.com/logo-png/61/1/grok-logo-png_seeklogo-613403.png"
         }
       ]
     },
@@ -83,6 +90,13 @@ export const mockData = {
           "url": "https://cursor.sh",
           "description": "AI代码编辑器",
           "icon": "/sitelogo/cursor.sh.ico"
+        },
+        {
+          "id": "grok",
+          "name": "Grok",
+          "url": "https://grok.com/",
+          "description": "Grok，世界顶级AI",
+          "icon": "https://images.seeklogo.com/logo-png/61/1/grok-logo-png_seeklogo-613403.png"
         }
       ]
     },
